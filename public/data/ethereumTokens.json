@@ -150,6 +150,12 @@
           "symbol": "AFA"
       },
       {
+          "address": "0x3bEa1Cb0Ea10A35B1995233D6d57B34Fb3142b1B",
+          "decimals": 18,
+          "name": "Moiom",
+          "symbol": "MIM"
+      },
+      {
           "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
           "decimals": 8,
           "name": "SingularityNET",
